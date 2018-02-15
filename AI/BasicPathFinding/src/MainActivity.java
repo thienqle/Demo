@@ -1,4 +1,3 @@
-package PathFinding;
 import java.util.Scanner;
 
 /*

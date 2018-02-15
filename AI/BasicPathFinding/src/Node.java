@@ -1,5 +1,3 @@
-package PathFinding;
-
 /*
  * @Thien
  * Model for Node 

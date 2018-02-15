@@ -1,7 +1,6 @@
 /**
  * @Thien
  */
-package PathFinding;
 import java.util.ArrayList;
 
 /*
