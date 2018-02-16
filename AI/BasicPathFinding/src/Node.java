@@ -25,7 +25,7 @@ public class Node {
 	}
 	
 	/*
-	* Function that return value of x
+	* Function that returns value of x
 	* @return x
 	*/
 	public int getX(){
@@ -33,7 +33,7 @@ public class Node {
 	}
 	
 	/*
-	* Function that return value of y
+	* Function that returns value of y
 	* @return x
 	*/
 	public int getY(){

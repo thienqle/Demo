@@ -53,7 +53,7 @@ public class SimplePathFinding {
 	}
 	
 	/**
-	* Function that find path from source coordinator to destination coordinator;
+	* Function that finds path from source coordinator to destination coordinator;
 	* And display to the shell
 	* @param sourceX: x coordinator of source node
 	* @param sourceY: y coordinator of source node
@@ -111,7 +111,7 @@ public class SimplePathFinding {
 	}
 
 	/** 
-	* Function that display a map to the screen with given source and destination (without display path)
+	* Function that displays a map to the screen with given source and destination (without display path)
 	* @param sourceX: x coordinator of source node
 	* @param sourceY: y coordinator of source node
 	* @param desX: x coordinator of destination node
@@ -136,7 +136,7 @@ public class SimplePathFinding {
 	}
 	
 	/** 
-	* Function that display a map to the screen with given source and destination (without display path)
+	* Function that displays a map to the screen with given source and destination (without display path)
 	* @param sourceX: x coordinator of source node
 	* @param sourceY: y coordinator of source node
 	* @param desX: x coordinator of destination node
@@ -166,7 +166,7 @@ public class SimplePathFinding {
 	}
 	
 	/**
-	* Function that check if queue contain a node with coordinator x,y
+	* Function that checks if queue contain a node with coordinator x,y
 	* @param x: coordinator x
 	* @param y: coordinator y
 	* @return boolean
