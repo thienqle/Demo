@@ -142,6 +142,10 @@ public class ServentData {
 		System.out.println("");
 	}
 	
+	/**
+	* Method that displays filename
+	* @see filename in console
+	*/
 	public boolean isContainFile(String input){
 		for(int i = 0;i<filenames.size();i++){
 			if(filenames.get(i).equals(input)){
@@ -150,5 +154,4 @@ public class ServentData {
 		}
 		return false;
 	}
-	
 }
